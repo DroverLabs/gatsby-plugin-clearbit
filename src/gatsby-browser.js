@@ -6,7 +6,8 @@ exports.onClientEntry = (options, pluginOptions) => {
   } = pluginOptions;
 
   const isEnabled =
-    (process.env.NODE_ENV === "production" || enableOnDevMode) && appId;
+    (process.env.NODE_ENV === "production" || enableOnDevMode) &&
+    publishableKey;
 
   if (!isEnabled) return;
 
