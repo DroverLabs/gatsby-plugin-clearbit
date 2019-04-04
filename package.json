@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-clearbit",
   "description": "Gatsby plugin for Clearbit.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Justin Ross <justin@droverlabs.com>",
   "devDependencies": {
     "babel-cli": "^6.26.0",
