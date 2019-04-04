@@ -5,7 +5,7 @@ Gatsby plugin for Clearbit.
 ## Install
 
 ```sh
-yarn add gatsby-plugin-clearbit
+npm install gatsby-plugin-clearbit
 ```
 
 ## Usage
